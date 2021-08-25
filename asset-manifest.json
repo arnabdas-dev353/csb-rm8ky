@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://arnabdas-dev353.github.io/csb-rm8ky/static/css/main.924cdefb.chunk.css",
+    "main.js": "https://arnabdas-dev353.github.io/csb-rm8ky/static/js/main.51205df0.chunk.js",
+    "main.js.map": "https://arnabdas-dev353.github.io/csb-rm8ky/static/js/main.51205df0.chunk.js.map",
+    "runtime-main.js": "https://arnabdas-dev353.github.io/csb-rm8ky/static/js/runtime-main.08f2a067.js",
+    "runtime-main.js.map": "https://arnabdas-dev353.github.io/csb-rm8ky/static/js/runtime-main.08f2a067.js.map",
+    "static/js/2.03c33ab1.chunk.js": "https://arnabdas-dev353.github.io/csb-rm8ky/static/js/2.03c33ab1.chunk.js",
+    "static/js/2.03c33ab1.chunk.js.map": "https://arnabdas-dev353.github.io/csb-rm8ky/static/js/2.03c33ab1.chunk.js.map",
+    "index.html": "https://arnabdas-dev353.github.io/csb-rm8ky/index.html",
+    "static/css/main.924cdefb.chunk.css.map": "https://arnabdas-dev353.github.io/csb-rm8ky/static/css/main.924cdefb.chunk.css.map",
+    "static/js/2.03c33ab1.chunk.js.LICENSE.txt": "https://arnabdas-dev353.github.io/csb-rm8ky/static/js/2.03c33ab1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08f2a067.js",
+    "static/js/2.03c33ab1.chunk.js",
+    "static/css/main.924cdefb.chunk.css",
+    "static/js/main.51205df0.chunk.js"
+  ]
+}
